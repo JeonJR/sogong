@@ -1,6 +1,6 @@
 #include "lib.h"
 using namespace std;
-
+#include "clientManagement.h"
 
 class Client{
 private:
